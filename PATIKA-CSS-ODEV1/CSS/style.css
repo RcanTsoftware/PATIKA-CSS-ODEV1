@@ -1,0 +1,157 @@
+/*------------------ARKA PLAN--------------------------------------------------------------------------------*/
+body {
+
+    background-color: #0A4D68;
+}
+
+
+/*---------------------BAŞLIK-----------------------------------------------------------------------------------*/
+h1 {
+    
+    position: static;
+    text-align: center;
+    font-size: 50px;
+    color: #05BFDB;
+    font-family: 'Sigmar', cursive;
+}
+
+#a_h1:link {
+
+    color: #05BFDB;
+    text-decoration: none;
+}
+
+#a_h1:visited {
+
+    color: #05BFDB;
+    text-decoration: none;
+}
+
+#a_h1:hover {
+
+    color: #05BFDB;
+    text-decoration: none;
+}
+
+#a_h1:active {
+
+    color: #05BFDB;
+    text-decoration: none;
+}
+
+/* ---------------------MENÜ-------------------------------------------------------------------------------- */
+nav .menu{
+
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: static;
+    text-align: center;
+}
+
+nav .menu li {
+
+    display: inline;
+}
+
+nav .menu li a {
+
+    text-decoration: none;
+    font-size: large;
+    padding: 2mm;
+    color: #05BFDB;
+    background-color:#088395;
+}
+
+nav .menu li a:hover{
+
+    background-color: #00FFCA;
+}
+
+nav p {
+
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Bruno Ace SC', cursive;
+    color: #088395;
+
+}
+/*----------------GÖVDE-----------------------------------------------------------------------------------------*/
+#a_p {
+
+    text-align: center;
+    font-size: 40px;
+    color: #00FFCA;
+    font-family: 'Caveat', cursive;
+}
+#a_p a {
+
+    text-decoration: none;
+    color: #05BFDB;    
+}
+
+.a_urun li {
+
+    padding: 0;
+    margin: 0;
+    list-style-position: inside;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
+    color: #00FFCA;
+}
+
+.a_urun h2 {
+
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Caveat', cursive;
+    color: #05BFDB;
+}
+
+hr {
+
+    border-color: #05BFDB;
+}
+
+.T_urunler {
+
+    text-align: center;
+    list-style-position: inside;
+    font-size: 30px;
+    font-family: 'Caveat', cursive;
+    color: #00FFCA;
+
+    
+}
+
+.T_urunler b {
+
+   font-size: 40px;
+}
+
+.T_urunler #eg1 , #eg2 , #kg1 , #kg2 , #kp1 , #kp2 , #dp1 , #dp2 , #kd1 , #kd2 , #ed1 , #ed2 , #kk1 , #kk2{
+
+    margin-left:550px ;
+    margin-right:550px;
+    padding:0px;
+    border-style: solid;
+    border-radius: 3mm;
+    border-width: 1px;
+    border-color: #00FFCA;
+}
+
+.hkk {
+
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Caveat', cursive;
+    color: #00FFCA;
+    border-style: solid;
+    border-radius: 3mm;
+    border-width: 1px;
+    border-color: #05BFDB;
+}
+
+
+
